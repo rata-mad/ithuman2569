@@ -3,6 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ผังบุคลากรและบทวิเคราะห์สารสนเทศ สำนักบริหารเทคโนโลยีสารสนเทศ</title>
+        border-radius: 12px; 
+            overflow: hidden;   
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -26,8 +28,8 @@
             margin-right: auto;
             height: 320px;
             max-height: 400px;
-            border-radius: 12px; /* โค้ดทำให้กล่องมุมมน */
-    overflow: hidden;    /* กันเนื้อหาภายในล้นตัดขอบมน */
+            border-radius: 12px; 
+            overflow: hidden;   
         }
         @media (min-width: 768px) {
             .chart-container {
