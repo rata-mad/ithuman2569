@@ -222,6 +222,78 @@
             
             <div class="bg-blue-900 text-white rounded-2xl p-6 shadow-md font-sarabun space-y-2">
                 <span class="text-xs uppercase font-bold tracking-widest text-sky-300 font-prompt">Executive Analytic Overview</span>
+                <section id="content-analytics" class="tab-content space-y-8 bg-slate-50 p-2 rounded-xl">
+            
+            <div class="bg-blue-900 text-white rounded-2xl p-6 shadow-md font-sarabun space-y-2">
+                <span class="text-xs uppercase font-bold tracking-widest text-sky-300 font-prompt">Executive Analytic Overview</span>
+                <h2 class="text-xl font-bold font-prompt text-white">รายงานวิเคราะห์อัตรากำลังพลและภาระงาน (นับเฉพาะบุคคลจริง - Distinct Headcount)</h2>
+                <p class="text-sm text-blue-100 leading-relaxed">
+                    รายงานการประเมินโครงสร้างกำลังพลตามคำสั่งใหม่ ลว. 05/09/2569 โดยปรับปรุงวิธีการคำนวณแบบขจัดชื่อซ้ำ (Deduplicated Headcount) เพื่อสะท้อนจำนวนเจ้าหน้าที่ปฏิบัติงานจริงในแต่ละกลุ่มงาน และวิเคราะห์ดัชนีการควบตำแหน่งผู้บริหารอย่างแม่นยำ
+                </p>
+            </div>
+
+<!-- การ์ดแสดงขอบเขตหน้าที่ความรับผิดชอบ ฝ่ายพัฒนาระบบงานกองทุนประกันสังคม -->
+            <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm font-sarabun space-y-4">
+                <div class="flex items-center gap-3 border-b border-slate-100 pb-3">
+                    <div class="w-10 h-10 rounded-xl bg-blue-100 text-blue-800 flex items-center justify-center text-xl font-bold shrink-0">
+                        🏛️
+                    </div>
+                    <div>
+                        <h3 class="text-base font-bold font-prompt text-slate-900">
+                            ฝ่ายพัฒนาระบบงานกองทุนประกันสังคม
+                        </h3>
+                        <p class="text-xs text-slate-500">ขอบเขตหน้าที่และความรับผิดชอบหลักตามโครงสร้างองค์กร</p>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs text-slate-700 leading-relaxed">
+                    <div class="space-y-2 bg-slate-50 p-3.5 rounded-xl border border-slate-100">
+                        <p class="font-bold text-slate-900 flex items-start gap-1">
+                            <span class="text-blue-600 font-mono">1)</span> ศึกษา วิเคราะห์ ออกแบบ และพัฒนาระบบ ปรับปรุงและบำรุงรักษา
+                        </p>
+                        <ul class="list-disc pl-5 space-y-1 text-slate-600">
+                            <li>
+                                <strong>ระบบงานประกันสังคม ประกอบด้วย:</strong> ระบบทะเบียนนายจ้างและผู้ประกันตน, ระบบเงินสมทบ, ระบบเร่งรัดหนี้และคืนเงิน, ระบบการเงิน, ระบบบัญชี, ระบบบริการทางการแพทย์, ระบบตรวจสอบ, ระบบสิทธิประโยชน์ทดแทน, ระบบนิติการ และระบบงานที่เกี่ยวข้อง
+                            </li>
+                            <li>
+                                <strong>ระบบงานประกันสังคมมาตรา ๔๐ ประกอบด้วย:</strong> ระบบทะเบียน, ระบบเงินสมทบ, ระบบประโยชน์ทดแทน, ระบบการเงิน, ระบบบัญชี และระบบงานที่เกี่ยวข้อง
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="space-y-2.5">
+                        <div class="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                            <p class="font-bold text-slate-900 flex items-start gap-1">
+                                <span class="text-blue-600 font-mono">2)</span> ควบคุม ดูแลฐานข้อมูล บริหารจัดการ ให้คำปรึกษา แนะนำ และแก้ปัญหาการใช้งานระบบ
+                            </p>
+                        </div>
+                        <div class="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                            <p class="font-bold text-slate-900 flex items-start gap-1">
+                                <span class="text-blue-600 font-mono">3)</span> ควบคุม กำกับ ดูแล การดำเนินการด้านเอกสารที่เกี่ยวข้องกับการพัฒนาระบบรวมถึงเอกสารคู่มือผู้ใช้งาน
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                        <p class="font-bold text-slate-900 flex items-start gap-1">
+                            <span class="text-blue-600 font-mono">4)</span> ศึกษานวัตกรรมเทคโนโลยีสารสนเทศ เพื่อประยุกต์ใช้ในการพัฒนาระบบสารสนเทศ
+                        </p>
+                    </div>
+
+                    <div class="bg-slate-50 p-3 rounded-xl border border-slate-100">
+                        <p class="font-bold text-slate-900 flex items-start gap-1">
+                            <span class="text-blue-600 font-mono">5)</span> การจัดทำแผนงบประมาณ และการจัดทำรายละเอียดความต้องการเฉพาะของระบบสารสนเทศที่เกี่ยวข้องและบริหารจัดการสัญญา การควบคุม กำกับ ดูแล และบริหารการทำงานร่วมกับผู้รับจ้าง (Outsource) อย่างมีระบบ
+                        </p>
+                    </div>
+
+                    <div class="md:col-span-2 bg-slate-50 p-3 rounded-xl border border-slate-100">
+                        <p class="font-bold text-slate-900 flex items-start gap-1">
+                            <span class="text-blue-600 font-mono">6)</span> ปฏิบัติงานอื่นตามที่ได้รับมอบหมาย
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <h2 class="text-xl font-bold font-prompt text-white">รายงานวิเคราะห์อัตรากำลังพลและภาระงาน (นับเฉพาะบุคคลจริง - Distinct Headcount)</h2>
                 <p class="text-sm text-blue-100 leading-relaxed">
                     รายงานการประเมินโครงสร้างกำลังพลตามคำสั่งใหม่ ลว. 05/09/2569 โดยปรับปรุงวิธีการคำนวณแบบขจัดชื่อซ้ำ (Deduplicated Headcount) เพื่อสะท้อนจำนวนเจ้าหน้าที่ปฏิบัติงานจริงในแต่ละกลุ่มงาน และวิเคราะห์ดัชนีการควบตำแหน่งผู้บริหารอย่างแม่นยำ
