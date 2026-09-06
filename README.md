@@ -3,8 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ผังบุคลากรและบทวิเคราะห์สารสนเทศ สำนักบริหารเทคโนโลยีสารสนเทศ</title>
-        border-radius: 12px; 
-            overflow: hidden;   
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&family=Sarabun:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -86,7 +84,7 @@
 </head>
 <body class="bg-slate-50 min-h-screen flex flex-col">
 
-    <header class="bg-slate-900 text-white shadow-md sticky top-0 z-50 border-b border-slate-800" style="background-color: #1E3A8A;">
+    <header class="bg-slate-900 text-white shadow-md sticky top-0 z-50 border-b border-slate-800 rounded-2xl overflow-hidden my-4 mx-2" style="background-color: #1E3A8A;">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
                 <div class="flex items-center space-x-3">
