@@ -26,6 +26,8 @@
             margin-right: auto;
             height: 320px;
             max-height: 400px;
+            border-radius: 12px; /* โค้ดทำให้กล่องมุมมน */
+    overflow: hidden;    /* กันเนื้อหาภายในล้นตัดขอบมน */
         }
         @media (min-width: 768px) {
             .chart-container {
